@@ -1,2 +1,3 @@
 # github4developers
-GitHub training "GitHub for Developers"
+
+Workspace for the GitHub training "GitHub for Developers"
